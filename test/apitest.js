@@ -7,7 +7,7 @@ const request = supertest("https://api.weatherbit.io/v2.0/");
 const Token_key = 'e667768b943a41fd87808a9838327aff'; // Use my own API key
 const Lat = 40.730610;
 const Lon = -73.935242;
-const PostalCode = -73.935242;
+const PostalCode = 28546;
 const Hour = 3;
 
 describe('ApiTest', () => {
