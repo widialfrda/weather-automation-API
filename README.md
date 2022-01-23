@@ -29,7 +29,7 @@ The test case of this project will automate link https://www.weatherbit.io/api/s
 
 5. Install all used libraries 
 
-   `npm install 
+   `npm install`
 
 6. Open the project in text editor or IDE, the project structure would be like this
 
